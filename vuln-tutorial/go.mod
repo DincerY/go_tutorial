@@ -1,7 +1,5 @@
 module vuln.tutorial
 
-go 1.23.0
+go 1.24.2
 
-toolchain go1.23.8
-
-require golang.org/x/text v0.3.5
+require golang.org/x/text v0.23.0
